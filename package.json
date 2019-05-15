@@ -1,0 +1,23 @@
+{
+  "name": "tray-io",
+  "version": "1.0.0",
+  "description": "a hoover CLI app",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "keywords": [
+    "roomba"
+  ],
+  "author": "Paolo",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.3.1",
+    "mocha": "^6.1.4"
+  },
+  "devDependencies": {
+    "nyc": "^14.1.1"
+  }
+}
