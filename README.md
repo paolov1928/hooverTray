@@ -28,6 +28,7 @@ NNESEESWNWW
 - the next line then always contains the driving instructions (at least one)
 
 Output should be as follows:
+
 (//I have added a few words of narrative to the STDOUT output//)
 
 - The first line of your program output should display the X and Y coordinates marking the position of the hoover after processing all commands.
